@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  color: #71d4ff;
+  font-family: sans-serif;
+  background-color: #212121;
+}
